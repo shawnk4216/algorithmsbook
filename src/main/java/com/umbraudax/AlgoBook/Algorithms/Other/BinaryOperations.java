@@ -1,4 +1,4 @@
-package Algorithms.Other;
+package com.umbraudax.AlgoBook.Algorithms.Other;
 
 public class BinaryOperations {
     public static int[] addBinaryIntegers(int[] A, int[] B) throws IllegalArgumentException {

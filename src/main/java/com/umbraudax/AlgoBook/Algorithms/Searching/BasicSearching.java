@@ -1,4 +1,4 @@
-package Algorithms.Searching;
+package com.umbraudax.AlgoBook.Algorithms.Searching;
 
 public class BasicSearching {
     public static <T extends Comparable<T>> int linearSearch(T[] A, T x) {

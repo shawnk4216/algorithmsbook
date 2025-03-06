@@ -1,8 +1,7 @@
-package Algorithms;
+package com.umbraudax.AlgoBook.Algorithms;
 
-import Algorithms.Sorting.BasicSorting;
-import Algorithms.Searching.BasicSearching;
-import Algorithms.Other.BinaryOperations;
+import com.umbraudax.AlgoBook.Algorithms.Sorting.BasicSorting;
+import com.umbraudax.AlgoBook.Algorithms.Other.BinaryOperations;
 
 import java.util.Arrays;
 import java.util.Random;

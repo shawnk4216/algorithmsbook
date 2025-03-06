@@ -1,4 +1,4 @@
-package Algorithms.Sorting;
+package com.umbraudax.AlgoBook.Algorithms.Sorting;
 
 public class BasicSorting {
     // Insertion Sort
